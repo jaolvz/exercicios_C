@@ -1,0 +1,76 @@
+Resolução dos exercícios da lista 3 
+
+QUESTÃO 01: Faça um programa que leia um 
+número inteiro positivo N e exiba todos os 
+múltiplos de Y inferiores a N, onde N e Y são 
+fornecidos pelo usuário. 
+QUESTÃO 02: Faça um programa que exiba 
+todos os elementos da seguinte série, assim 
+como a soma destes elementos: 
+1, 50, 2, 49, 3, 48, 4, 47, 5, 46, ..., 49, 2, 50, 1 
+QUESTÃO 03: Joãozinho investiu Q reais em 
+uma aplicação com rendimento fixo de R% ao 
+mês. Pede-se a implementação de um 
+programa que calcule o valor (e exiba-o) 
+disponível na conta de Joãozinho após A anos 
+de investimento. 
+QUESTÃO 04: Faça um programa que leia 
+300 números reais. Ao final, devem ser 
+exibidas as seguintes informações: 
+QUESTÃO 07: Uma determinada empresa fez 
+uma pesquisa de mercado para saber se as 
+pessoas gostaram ou não de um novo 
+produto que foi lançado. Para cada pessoa 
+entrevistada foram coletados os seguintes 
+dados: gênero (M ou F) e resposta (G 
+[Gostou] ou N [Não Gostou]). Sabendo-se 
+que foram entrevistadas X pessoas, faça um 
+programa que forneça: 
+a) Número de pessoas que gostaram do 
+produto; 
+b) Número de pessoas que não 
+gostaram do produto; 
+c) Informação dizendo em que gênero 
+o produto teve uma melhor 
+aceitação. 
+QUESTÃO 08: Em uma empresa deseja-se 
+fazer um levantamento sobre algumas 
+informações dos seus 250 funcionários. Cada 
+funcionário 
+deverá 
+a) A quantidade de valores negativos 
+digitados; 
+b) A média dos valores positivos. 
+QUESTÃO 05: Faça um programa que exiba 
+na tela os 50 primeiros termos da seguinte 
+série: 1, -2, 3, -4, 5, -6 ... 
+responder 
+um 
+questionário ao qual informará os seguintes 
+dados: matrícula, gênero, idade, salário e 
+tempo (em anos) de trabalho na empresa. A 
+execução do programa deve exibir os 
+seguintes itens: 
+QUESTÃO 06: Faça um programa que leia um 
+número N inteiro, menor ou igual a 18. Se for 
+maior do que 18, o programa exibirá uma 
+mensagem de erro e terminará a sua 
+execução; caso contrário, deverá exibir os 
+números no intervalo de 1 a 99 cujos 
+algarismos somem N. 
+Exemplo: 
+N = 12  
+Portanto, o programa deve exibir 
+os 
+números que estão no 
+intervalo de 1 a 99, cujos 
+algarismos somam 12. Ou seja: 
+39, 48, 57, 66, 75, 84 e 93. 
+a) Quantidade de funcionários que 
+ingressaram na empresa com menos 
+de 21 anos; 
+b) Quantidade de funcionários do 
+gênero feminino; 
+c) Média salarial dos homens; 
+d) Matrícula dos funcionários mais 
+antigo e mais novo.
